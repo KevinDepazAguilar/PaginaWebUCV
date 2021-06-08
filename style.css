@@ -1,0 +1,21 @@
+body {
+  margin: -0.1cm;
+}
+
+.cover {
+  height: 550px;
+  background-image: url(https://cdn.glitch.com/02da383d-6b07-4e67-98cd-04b820990f68%2Frsz_el_mundo_de_georgette_y_cesar_vallejo_2.jpg?v=1623129268861);
+  color: black;
+  backround-size: cover;
+  backround-position: center;
+  backround-blend-mode: darken;
+}
+.cover {
+  heigth: 200px;
+  background-blend-mode: normal;
+b
+.card {
+  border: 0 !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
